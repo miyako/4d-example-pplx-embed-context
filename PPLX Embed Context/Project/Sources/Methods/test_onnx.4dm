@@ -31,7 +31,7 @@ $cosineSimilarity2:=$d1s2.cosineSimilarity($d2s2)
 //0.3119418533036
 
 /*
-event though the text was identical, the cosine similarity is very different
+even though the text was identical, the cosine similarity is very different
 "she" is referrring to differnt people and
 "highly optimistic" is about different things
 */
