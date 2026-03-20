@@ -34,9 +34,9 @@ $d2s1:=$batch.embeddings[3].embedding
 $d2s2:=$batch.embeddings[4].embedding  //She is highly optimistic.
 
 $cosineSimilarity1:=$d1s2.cosineSimilarity($d1s3)
-//0.9182668966287
+//0.9182665393112
 $cosineSimilarity2:=$d1s2.cosineSimilarity($d2s2)
-//0.2638508626077
+//0.2638506562514
 
 /*
 	even though the text was identical, the cosine similarity is very different
