@@ -44,3 +44,7 @@ $cosineSimilarity2:=$d1s2.cosineSimilarity($d2s2)
 	"highly optimistic" is about different things
 */
 ```
+
+### Note for GGUF
+
+https://github.com/ggml-org/llama.cpp/issues/20055
